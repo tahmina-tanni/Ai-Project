@@ -1,0 +1,6 @@
+streamlit 
+textblob 
+nltk 
+plotly 
+pandas 
+streamlit-option-menu
